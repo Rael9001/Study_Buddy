@@ -1,0 +1,1 @@
+Study Buddy is a Flutter-based mobile application designed to be your digital study partner, providing support and motivation as you study. The app aims to enhance your study experience by integrating interactive features and smart tools to help you stay focused and productive.
